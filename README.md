@@ -146,7 +146,7 @@ Links to these products on Amazon are through affiliate links.
 <br>
 
 
-## Wizard Tables (306)
+## Wizard Tables (310)
 
 | Table | Backglass | DMD | ROM Required | Has Puppack | FPS |
 |:------|:---------:|:---:|:------------:|:---:|:---:|
@@ -233,6 +233,7 @@ Links to these products on Amazon are through affiliate links.
 | [Cyber Race (Original 2023)](external/vpx-cyberrace) | :white_check_mark: | :x: | :x: | :x: | 53 |
 | [Dark Chaos (Original 2025)](external/vpx-darkchaos) | :white_check_mark: | :x: | :x: | :x: | 60 |
 | [Dark Crystal Pinball, The (Original 2020)](external/vpx-dcrystalpup) | :x: | :x: | :x: | :white_check_mark: | 60 |
+| [Darkest Dungeon (Original 2023)](external/vpx-darkestdungeon) | :x: | :x: | :x: | :white_check_mark: | 55 |
 | [Deadpool, JPs (Original 2021)](external/vpx-deadpool) | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | 60 |
 | [Demolition Man (Williams 1994)](external/vpx-demoman) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Devil Riders (Zaccaria 1984)](external/vpx-devilriders) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 58 |
@@ -269,7 +270,7 @@ Links to these products on Amazon are through affiliate links.
 | [Fish Tales (Williams 1992)](external/vpx-fishtales) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 57 |
 | [Flash (Williams 1979)](external/vpx-flash) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Flight 2000 (Stern 1980)](external/vpx-flight2000) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
-| [Flintstones, The (Williams 1994)](external/vpx-flintstones) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 55 |
+| [Flintstones, The (Williams 1994)](external/vpx-flintstones) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Fortnite (Original 2024)](external/vpx-fortnite) | :white_check_mark: | :x: | :white_check_mark: | :x: | 60 |
 | [Four Million B.C. (Bally 1971)](external/vpx-fourmillionbc) | :white_check_mark: | :x: | :x: | :x: | 60 |
 | [Frank Thomas' Big Hurt (Gottlieb 1995)](external/vpx-bighurt) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
@@ -338,6 +339,7 @@ Links to these products on Amazon are through affiliate links.
 | [Lord of the Rings, JP's The (Original 2017)](external/vpx-jplordoftherings) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Lord of the Rings, The (Stern 2003)](external/vpx-lordoftheringsvalinor) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Lost in Space (Sega 1998)](external/vpx-lostinspace) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
+| [Lost In Space Comic Book Edition (Sega 1998)](external/vpx-lostinspacecomic) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Lost World Jurassic Park, JP's The (Sega 1997)](external/vpx-thelostworldjp) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Lost World Jurassic Park, The (Sega 1997)](external/vpx-thelostworld) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Mach 2.0 Two (Spinball S.A.L. 1995)](external/vpx-machtwo) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
@@ -347,6 +349,7 @@ Links to these products on Amazon are through affiliate links.
 | [Mata Hari (Bally 1978)](external/vpx-matahari) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Maverick (Data East 1994)](external/vpx-maverick) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 58 |
 | [Medieval Madness (Williams 1997)](external/vpx-mm) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 56 |
+| [Medusa (Bally 1981)](external/vpx-medusa) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Megadeth (Original 2023)](external/vpx-megadeth) | :white_check_mark: | :white_check_mark: | :x: | :x: | 60 |
 | [Metallica (Premium Monsters) (Stern 2013)](external/vpx-metallicapremium) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Meteor (Taito do Brasil 1979)](external/vpx-meteort) | :white_check_mark: | :x: | :white_check_mark: | :x: | 60 |
@@ -415,6 +418,7 @@ Links to these products on Amazon are through affiliate links.
 | [Street Fighter II, JP's (Gottlieb 1993)](external/vpx-sfii) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Super Mario Bros. (Gottlieb 1992)](external/vpx-supermario) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Super Mario Bros. Mushroom World (Gottlieb 1992)](external/vpx-smbmushroom) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
+| [Superman (Atari 1979)](external/vpx-superman) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Surf 'n Safari (Gottlieb 1991)](external/vpx-surfnsafari) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
 | [Tales from the Crypt (Data East 1993)](external/vpx-tftc) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 58 |
 | [Tales of the Arabian Nights, JP's (Williams 1996)](external/vpx-totan) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
@@ -459,7 +463,7 @@ Links to these products on Amazon are through affiliate links.
 
 <br>
 
-## Manual Install Tables (489)
+## Manual Install Tables (487)
 
 | Table | Backglass | DMD | ROM Required | Has Puppack | FPS |
 |:------|:---------:|:---:|:------------:|:---:|:---:|
@@ -720,7 +724,6 @@ Links to these products on Amazon are through affiliate links.
 | [Mask (Sound Mod) (Original 2023)](external/vpx-mask) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 50 |
 | [Masters of the Universe (Original 2018)](external/vpx-mastersoftheuniverse) | :white_check_mark: | :white_check_mark: | :x: | :x: | 54 |
 | [Medusa (Bally 1981)](external/vpx-jpmedusa) | :white_check_mark: | :x: | :white_check_mark: | :x: | 58 |
-| [Medusa (Bally 1981)](external/vpx-medusa) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 32 |
 | [Memory Lane (Stern 1978)](external/vpx-memlane) | :white_check_mark: | :x: | :white_check_mark: | :x: | 60 |
 | [Men in Black Trilogy](external/vpx-meninblack) | :white_check_mark: | :white_check_mark: | :x: | :x: | 50 |
 | [Metallica Pro, JPs (Stern 2013)](external/vpx-jpmetallica) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 60 |
@@ -868,7 +871,6 @@ Links to these products on Amazon are through affiliate links.
 | [Summer Time (Williams 1972)](external/vpx-summertime) | :white_check_mark: | :x: | :x: | :x: | 60 |
 | [Super Mario Galaxy (Original 2021)](external/vpx-mariogalaxy) | :white_check_mark: | :white_check_mark: | :x: | :x: | 58 |
 | [Super Spin (Gottlieb 1977)](external/vpx-superspin) | :white_check_mark: | :x: | :x: | :x: | 48 |
-| [Superman (Atari 1979)](external/vpx-superman) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | 50 |
 | [Superman and The Justice League (Original 2024)](external/vpx-supermanjl) | :white_check_mark: | :white_check_mark: | :x: | :x: | 58 |
 | [Supersonic (Bally 1979)](external/vpx-jpsupersonic) | :white_check_mark: | :x: | :white_check_mark: | :x: | 60 |
 | [Surf Champ (Gottlieb 1976)](external/vpx-surfchamp) | :white_check_mark: | :x: | :x: | :x: | 52 |

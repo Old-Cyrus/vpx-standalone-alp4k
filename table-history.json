@@ -1,0 +1,2226 @@
+{
+  "latestRelease": "008",
+  "publishedAt": "2026-09-10T20:13:26Z",
+  "schemaVersion": 1,
+  "tables": {
+    "vpx-123": {
+      "fingerprint": "cdfdffd5e3b33777ce38546314085822f12d9c47977e9229c7007cc4c28faa28",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-1812": {
+      "fingerprint": "29716af100222a3fd02ce2e7d5849eae8855c71c375827ddce66272ff3aece91",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-2001": {
+      "fingerprint": "aed8544507c61a2acbec3cda6415d4722f37d3acbffdad68ca1f964adbf81b9b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-24": {
+      "fingerprint": "ba0e62ee5e5666d75b0d3cb79927324b9304f447b50686aacb37efc7e54e8e2c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-250cc": {
+      "fingerprint": "73f19654587b09f781493437a5cb195535398b9f2947b96dac98ff480af1da96",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-4aces": {
+      "fingerprint": "be71cf9684e62ef5b2c6d2d9d62af71e3d7cbea449e9ab7cf28f5ff8cbbe3c6c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-aaronspelling": {
+      "fingerprint": "d08b865bee495e2067ba93336445f2ff43a6ae6c019e77bf6c89a7985c77a85b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-abracadabra": {
+      "fingerprint": "580e37ba605e44608dcdc50de8afbc235f27cf7303a905d4a6e64c75fcc1ced0",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-acastle": {
+      "fingerprint": "a9d369ca251366faaa0e569808fcda1a09f3803645b1b4883e3537cb606cd500",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-acdclucipremium": {
+      "fingerprint": "19ab54f7ff731f5cca8f3a6aaaf23f484d0c1910f6db291bdb9aaec0d5383919",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-acdcprovault": {
+      "fingerprint": "0ff535034b1bb79966f95b7fc3abf87d2377e68beaad319c5a6060105b2b6307",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-acehigh": {
+      "fingerprint": "b154bee5def040a3f6f2da3d61e4dcf9bd27229f9e0bf4b2713636f8ffacb8c8",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-aerosmith": {
+      "fingerprint": "32e3e46498444c361cbd17e393e216f61ae8dfb3e5d513f5699a7091f6fc7e2b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-airborne": {
+      "fingerprint": "cb3fd6b6c64907a80a916c99f1c4b118dbe750e743be87961e8cd501e5fcf213",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-alaska": {
+      "fingerprint": "e6c6c69dcc5f88e7f7360b5e3e57e3720ca4641f4701c260c7fc76b53c4c7747",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-alice1948": {
+      "fingerprint": "725bbe62615169765fe741a0402c428fe8c49be453498e32f21be325734c31cd",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-alienpoker": {
+      "fingerprint": "5158b08fc9d5862a00ea3f6e3ff1bfe1ab664edf2c05bb35b7a4371ba32f3293",
+      "firstAvailableAt": "2026-09-10T18:10:02Z",
+      "firstAvailableRelease": "006",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-alienstar": {
+      "fingerprint": "e343b4bbef585cec99fb3042013f5b8afe5bb095be8772722034e5ca7c7c4ad7",
+      "firstAvailableAt": "2026-09-10T18:10:02Z",
+      "firstAvailableRelease": "006",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-alijp": {
+      "fingerprint": "a7a63d4ba7f25227413fe7d227ed7ec50c2c798f640b8ecfaf5d5420a3aadc2c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-alsgarageband": {
+      "fingerprint": "29a8a4d12aa74f7da1db941ead664c0c33ae5e0b2fc207ebbfae20e0e43a3353",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-amazingspidermansse": {
+      "fingerprint": "d0e174f7aff243baeddae1e0ac6f8ddf348a3c6906eef18f06b089ddf4c32c30",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-amazonhunt": {
+      "fingerprint": "67ba6d716cf669ced839bae7443377affb88bf93627142efb3ea472bebca528b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-andromeda": {
+      "fingerprint": "8295971db2a908e5ff674bb585ef49b6b4244c2176e78ac873aa8be08299b23b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-aorab": {
+      "fingerprint": "a4c56ef7beb993ea769fa858abc0e7d2219c8b55f9f7a73ade4ed9e7e8665b4f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-apache": {
+      "fingerprint": "48c85026ab4e6e0b1157dfe9fe9e6943c00e20d83dacdae05197fb44153e86a5",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-apollo13": {
+      "fingerprint": "ececbb91c231b472faa848e4849c6cc5f82af8f4c1885f480627fe5dcfc66dad",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-armyofdarkness": {
+      "fingerprint": "8046730172f6fcc28c5df74bf8208e1f5a61e81ae2c563db1e259c4eb21bb1bb",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-astannie": {
+      "fingerprint": "cd3c863ecf392bd766cce714d75e3cfa668f428bd52ca3b3c6a8ce6e0c6284cb",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-asterix": {
+      "fingerprint": "12410b3852b3571d8fdf60d6bcb079862537c56e70750b660b183236da84b78a",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-austinpowers": {
+      "fingerprint": "9d52f00e78ab0a7a5a3c0ec0f43159add08c762d7a25cf7841d8f2f9c1b7b92e",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-avatar": {
+      "fingerprint": "d4579a5d6135c28d6a7762663d4043fa2a065f7d3f1b781ceb226fc6eb0c0a41",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-avengers": {
+      "fingerprint": "2c24d09922d09bdf7ae46405485c2dd37e07ddc190b51aeffefd5d5c7ea7117a",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-babypacman": {
+      "fingerprint": "318c50a89e6ee47f8705f5b7aa63d589ca3df9de11bac0cb6f445acc7034d751",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-badcats": {
+      "fingerprint": "81663f030f5306b8451bca92bc2e87ed4dafec9bbbcd7c57d2842eac4e9e2e5c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-banzairun": {
+      "fingerprint": "0901b1223ce686cdcde43115540323635d835c74a8ee556a3fd3bf504fdc815f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-barbwire": {
+      "fingerprint": "945092600aa87919661fc3773a11efd1549169634dce1ee13d5df6b99f75eb22",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-batman": {
+      "fingerprint": "97898f298ee8fe8cd0fd70c3c7542850ea5ff86b3ae674a535e8ad9b9c3ae9cb",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-batman66flash": {
+      "fingerprint": "0fe5ed43c79d2f5c44b190fd4332cfe9a627bb8ceb92d28096b14b5d273d79e3",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-batman66premium": {
+      "fingerprint": "1d2694079fb8d3e08eeaecd2576b8baa2f154751d3554e6dca4a7256b10765d4",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-batmanforever": {
+      "fingerprint": "69f87c4efab0c16b54a5ab5d92fff8e2aa3c3f7c2c36210fbd6f3a46d41067fd",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-baywatch": {
+      "fingerprint": "a74fccc94c5626dc2ab6613e6eedce8ae9fd978abfe5b6a95297311311ceb629",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-big_trouble": {
+      "fingerprint": "ae485fd4e9faf270434807419b08a5e4128b878bdeb13a70664ef2ea655106db",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-bigbangbar": {
+      "fingerprint": "15410d3fd778d1d697db2092859f71e23f1e84362a75dc8f8372ad5113992318",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-bigbuckhunter": {
+      "fingerprint": "9ea6c84d44a1396f38b242cc795bc4ed8bdeac5c2c74bc4c42770570ab624fd9",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-bighurt": {
+      "fingerprint": "984827054cc5a733194c961d0ac1293394af109146b7c1c89b177493fb64bed8",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-bigshot": {
+      "fingerprint": "91f2755cb9d6efed3e2a0c82abd41dc98bbcbe292a4f3f15d79a73d2ac3e13ee",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-blackknight": {
+      "fingerprint": "06faffb205bf54d1bd1ed39defa12a3e60d0a0602cf94cae207653df2f0e55de",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-blackknight2000": {
+      "fingerprint": "82d16ff5075b20a117184a073a6b17643ba15220c079c291e181a51a04c353a7",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-blackmagic4": {
+      "fingerprint": "9dbe6f45b58d277b0a017520b768cd2b7d5242036ac44d470174ac44ac63c32d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-blackpyramid": {
+      "fingerprint": "e4566ba3a8217ffc6ebfe5ab4978b67c1472dbab7489412f42349ecf6582c12f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-blackrose": {
+      "fingerprint": "8489457c146175896d234eb6f1dace0ee94a16e43a155d7150335e016ed6fb46",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-bobcuspe": {
+      "fingerprint": "2eeb351ffa9d0d7304a1a005bea1abeb5114a4b1eaec191f28a8338ff730c0ba",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-bop": {
+      "fingerprint": "55d84700c8376ea627741d2963141223ccdac701a2d7615e59efc9c0eede9528",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-breakshot": {
+      "fingerprint": "d078f04086190a1c093b202da7cd2beda661073ec0ce527e1cb91b9e2ae48f76",
+      "firstAvailableAt": "2026-09-10T18:10:02Z",
+      "firstAvailableRelease": "006",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-bsdracula": {
+      "fingerprint": "2678e392fa145b5a6f5779481974bfea7c670ca4672236c5b350da775bcbf495",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-btilc": {
+      "fingerprint": "b7fc31cb2c9fd9dec3c0c2ee8093e200ad367691bc961a8a2bf5466ebbd49627",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-bttf": {
+      "fingerprint": "a2e1dd35d9244fa2e06aec8756788ae31755c230a6d421e9263c6ff458d62347",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-bugs": {
+      "fingerprint": "10b546ccf3829475d0caf2c2470f45bd5bb4f7eb9dd61742d05e13c876ed64a5",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-burner": {
+      "fingerprint": "19529c113d0f450df5811f4de432720c9e921fd3e6339d0c97992eddd86dab6d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-cactuscanyon": {
+      "fingerprint": "a305261e67fb2941e8440d476f6e082761edeb5f48cefdad30cb61a9a1e32a5f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-carhop": {
+      "fingerprint": "e6508c036c9561e269de0f749bc41f1126212488d497ac6afb87f4f7350e228a",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-casino": {
+      "fingerprint": "e1884ef99184012f73cdb1b55292dc381c859f32b9dd661ce3b536fa30a7e855",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-catburglars": {
+      "fingerprint": "184b14a49998edf54bdbec89b22d129d158cdc0fd765abe9191681356a76b7e2",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-cenobite": {
+      "fingerprint": "01e3e830a89bfca33b932bb22170bcb05fc0ff36064932284ccae960f05582e8",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-centaur": {
+      "fingerprint": "2e10b1947ee018f5d4b25bd14c229bc0e6559ff92f8527112a808c51c8bcc2e4",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-centigrade37": {
+      "fingerprint": "4ea724589b0d7ccc5c9ec277ea274859f5aedaac08546aee157fe41d48ba412d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-centralpark": {
+      "fingerprint": "218d949b245998aa63a1c21e1376a95a22f79ccc169c9f6e382ab581b7137a4e",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-cftbl": {
+      "fingerprint": "9391f13f127174b9606a9302e30562d1497410de6ecfcdfdf05333d550cb897c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-champpub": {
+      "fingerprint": "72889e281d309d0a01f88ae420ec6a15643dd16391535ee36ecf8e5f4a641c41",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-checkpoint": {
+      "fingerprint": "1e39c925f1e12101ae00f1a94df84dd4f54dd08e2f6e05fc8f30c25ab6b5036d",
+      "firstAvailableAt": "2026-09-10T18:10:02Z",
+      "firstAvailableRelease": "006",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-christine": {
+      "fingerprint": "88dcebba887875fcb28f677a360b3b3468ce6c0e8ec8471ef640e7e742d097ce",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-chrono": {
+      "fingerprint": "ded6d19cb44cb5492ce48bf46ad8e25ed4c9e27ae4f5ffbe37cc979008662d1c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-cirqusvoltaire": {
+      "fingerprint": "9b266e8761d6b005322289e553c8ce79917f2e3d51394a9c0b444273faa75899",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-cityhunterpup": {
+      "fingerprint": "965b01e222b88414686d1b40e64997850aa2e5a465e69ab5f9630e21e546f9f9",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-cleopatra": {
+      "fingerprint": "2cbe07522b87a6b6bb2c5f434df39591369d576cb6b9e358e0e5fc2b61a89459",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-clockofetfog": {
+      "fingerprint": "554999d63b33701385bde4720b69e413dc0ec80d69f932e549e67044941967d3",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-congo": {
+      "fingerprint": "7ec45f5bd322f6b582ab86471d5255708692c8429dcf2474e8d8e42cf1df13ac",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-cosmic": {
+      "fingerprint": "75b1c07a68fbf56511fc1c569ece77d463a04ec43e03dfec90c4052b011e1e65",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-countdownjp": {
+      "fingerprint": "7ba12c3593aef2d0856872eae98c528a3bef3b62082d4719b03766bcdf6cd31c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-cowboy8ball": {
+      "fingerprint": "6ba3f15438479e7ff29fb76cc49398d615b74616da41b510092875e1dc7e9657",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-creaturevpw": {
+      "fingerprint": "4af2c38a5de787564ffc4a0e5e45e81d891ea7481fcd3dd687cacc0ef015b023",
+      "firstAvailableAt": "2026-09-10T01:51:18Z",
+      "firstAvailableRelease": "004",
+      "updatedAt": "2026-09-10T02:23:19Z",
+      "updatedRelease": "005"
+    },
+    "vpx-crystalball": {
+      "fingerprint": "fda2f4302edfc4e5035c13297e10e0b61b93ca3b54f0e77465d412482253d07f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-csiled": {
+      "fingerprint": "60949842994acd927ae7e7096688c83237d1cc0e9ddab8d62347f10ace7d86c0",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-cyberrace": {
+      "fingerprint": "b26dfee0a984a91ec28b97e8cd34141eeb8c3b9dfc7760f9e691614bda678ca8",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-darkchaos": {
+      "fingerprint": "b6bad4da83da0dece04a0ef20cbcf2024250fc0e760b41f200bd593ad4ba3e8f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-darkestdungeon": {
+      "fingerprint": "729909901ed78e94daaab44ead86e09737bcdf2c736503c2075f4c20c0c8bd6f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-darkknight": {
+      "fingerprint": "a6977e93cb6a68f526b3c5902cbb604605b430359ff1730bf0b1a0b509ef1c99",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-dbsse": {
+      "fingerprint": "28a59c0b2eab7a99cd36154024f881c7a49329c4205b85fec4ffb0232eb93319",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-dbzbudokai": {
+      "fingerprint": "76285ecfda1554262caf068418f0f1b07949b5448b2f2f1ca0bdf34b61cc1744",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-dcrystalpup": {
+      "fingerprint": "eb2cb528651d3de0f5e906989d67c08c101273359e7126d0166f8a07d438257d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-deadpool": {
+      "fingerprint": "a6d5c194eec7cd7b9789b284305ab9f86539e864f4c22ec703b7f8968b570155",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-demoman": {
+      "fingerprint": "e745ae1c2c8531a4051baf10abf5e180407ed22a0cc3335632c07ec866d84a34",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-devilriders": {
+      "fingerprint": "37a13bc09f6213e7f77a9fae50c59c92ac6ca2f1a9721031d7c76d205757d97b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-dexter": {
+      "fingerprint": "11ce7851a8ac920698fdddfaa36e97c03c075fd599f6ac1dae97517583a45bee",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-diablo2": {
+      "fingerprint": "c6153693d0b60d81edc8d8f79e2e161179bf0d4ff5d931806d82f9263424d21b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-diner": {
+      "fingerprint": "4d011e1b101922fae1669d8b74744fdf7c7a824ad5a6d277461c47eff3d64ad5",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-dirtyharry": {
+      "fingerprint": "36e353da0ac831947c324f852cde432711097ba0b8dd82eff71a50823fa5d63c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-doctorwho": {
+      "fingerprint": "ae9d8581d2b79ea3fdfff6dd7d0701ddf4fe792dbed4246d2cf147707618dfa0",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-dolly": {
+      "fingerprint": "3d01ca640addb4fae6dd60af859145e96a3d87d6c7e7050e412b7e54dd6d6db0",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-dollypup": {
+      "fingerprint": "1feb120c582b1d4ae97bc91e089e4fc14835171f8ada53b70d7d7b492bd52a77",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-doometernal": {
+      "fingerprint": "6a3e10fc08d51ee6a64a67a78432dee1849e4b686bf4db05e10f080f1ba93c94",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-dracblood": {
+      "fingerprint": "d6553e576795d09f96170e5c5360c9aa3f036b238a036d8977fed2e48b77b239",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-dragong": {
+      "fingerprint": "a9b23ce25df4b80d52d61e4859e1e048199cbdbf37b1550d6b1f6121549a6551",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-dragoni": {
+      "fingerprint": "d0121767fa8d2f38fdb21ad8aadd7fad9e54188b97ce748cfd0442bd8ecfffd3",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-drakor": {
+      "fingerprint": "5348a5fecd4df0b7e5f62e9b0da3e8ba81ca60b9b3717a4bde6b2b0d2ecb3543",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-dune": {
+      "fingerprint": "9c6c04af36bc4d467a0b7b97107e6592e2b5b36c564be21f4d1866ba12bc702e",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-dungeonsndragons": {
+      "fingerprint": "f54578c32bd9a7cb301ba31ec215cd1ada900d057a516bb9e01278ef99419497",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-earthshaker": {
+      "fingerprint": "3093508f5ee8ceb30ecb4b9076f4c8d1ec61e4e2f9b4c6f62ee4b4987356bf9a",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-eldorado84": {
+      "fingerprint": "cc8e853ac9f6ca13578180f9ea7dee6b4bba267073f5488e6d7d139f5f11625b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-f14tomcat": {
+      "fingerprint": "93b151945ebef76b07ad433fcc8b11289fa72aea42fa0c495f09c1e741600713",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-familyguy": {
+      "fingerprint": "70fa31ecace4cc238df07e5dcaaeca140644caf5ba4a1359acfe11ea30c70451",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-fathom": {
+      "fingerprint": "c9ab4ee4bf309d2abcf7636503aac6b16d33e091a7f69190911fb08494e09c18",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-fbclassic": {
+      "fingerprint": "159ebcea388e8686707f271fe305097bcc029a296fa59d26463ecfbbaf57c31b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-fifthelement": {
+      "fingerprint": "c3acad9222d0599d330c434330c387fe657cfd6e5fd8e779acf0184d1710d3af",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-fire": {
+      "fingerprint": "b97e29e0f076850d58c9933543e52448f9e0cacbaa709d803d4bd0a8876d8b83",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-fireball": {
+      "fingerprint": "a1fa0c15fd81049445f61765502f0a0b30fbfaea4b484c3eeb48bae3c2ef6483",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-fireballii": {
+      "fingerprint": "d0c05cc36490e95d6b9a9a249794237071dd261aeb60038b866a818fe7108182",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-firepower": {
+      "fingerprint": "1b2e42976f494e777eb833389358e3eb56e73b7bdd66d6d077006e9552322bd8",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-firepower2": {
+      "fingerprint": "b97d258215bd27f6c980bd8906224f2ffda188268f1162c49b4ea656ea8736d9",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-fishtales": {
+      "fingerprint": "e241e4887c9e0ca11b1c79950e94d18b274a23b12f8f19e74c9fcc29204670ed",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-flash": {
+      "fingerprint": "1b58f2949c849f45247f0e87613aeb600883a000a1ce604292a224db9120d9ab",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-flight2000": {
+      "fingerprint": "1248c13da4d74821172ab91d1d398fa81ebd3dbfb85eda1c5c49087413425c4b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-flintstones": {
+      "fingerprint": "a88e23c1de257a423f14f91389e57b5f31d8b21dce1c931514a419b8ec6e7eb4",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-fortnite": {
+      "fingerprint": "83b3dcf87b220f4d07caede3557303d3b296ed8b0479aea9013eaeaceadeacc3",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-fourmillionbc": {
+      "fingerprint": "ebae9345d34a4ed18c3adedeb9f1124abf767ceb989c678610a4de1f6c15b576",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-freddy": {
+      "fingerprint": "c43f8e98245edfca2746ae7e2cb5564fb69f340e1b21a0a2228f228515b4376f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-freddysnm": {
+      "fingerprint": "906aefdc62306e9152e74d69bc5d0b2e217e8efd8c4e49ff76b55faa5dcbbc08",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-funhouse": {
+      "fingerprint": "0a322c3a4ad13d17d04e5f5456dd26cef00ac4edc6f2af3e57b003dcba140d46",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-futurama": {
+      "fingerprint": "3741696159287fee1a38a3efbe73bd02faa9cb06ab6e22206eac761df1c6dcd1",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-gargamelpark": {
+      "fingerprint": "8ad7afad63d0bb833ec9165e0160f5c425d0a9c539dcc2e8a51ecb62cb25ab39",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-genie": {
+      "fingerprint": "a1ae2834c81a8210b8e4f29a97159c147d408b5ddf40a3e904b5f50eb5093afa",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-getaway": {
+      "fingerprint": "fe1aa4c4348b37936a26f59f1a1d2243a8afd846c8bda9dd8b833175524f11c3",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-gilligansisland": {
+      "fingerprint": "4d2a3016e672de3793f65d10cab32f8e9f7f0b888831ae9e485d49d6ccd9ab46",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-gladiators": {
+      "fingerprint": "373be623dc3bca79d5c446a9f727842d0a7a764be1220aacd42d60487686c7d6",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-gnr": {
+      "fingerprint": "f3315abbdc93b94997444820417f13a0887a77d868aa3c524e474aad416a5e55",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-gnrle": {
+      "fingerprint": "a86c70e28a658b16badce7fd8f5048f60a90632ea207d291a12ae7fc81eaead6",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-godzilla": {
+      "fingerprint": "ca9e9bcc10730740db170b60c6154998ff25ba8daf8f9594629a658e039fc907",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-godzilla70th": {
+      "fingerprint": "2fcc28450f8862d787a903490b84d78287b1cdeef16ba8b52b59c0782839cdff",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-gogtrilogy": {
+      "fingerprint": "0a720d0e050cf20d9ff9fb0195279a3f2279712695d2df33b52c8ff501ba2f16",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-goinnuts": {
+      "fingerprint": "d6898ca67f28f377b667bbe01ed85ff2aa373b635e7a90d862f10156293bf5fc",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-goldencue": {
+      "fingerprint": "52dacd16797f21163b923c3e50336ab44106d0597bc9082ff2cbc5f63775110d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-goldeneye": {
+      "fingerprint": "8c440dd378f8edca7411cccd8a0d8fbf6acc204e7f402c4d8ebc713b8c3c4c54",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-goldwings": {
+      "fingerprint": "573dc74130034de7a99a520ee24058c5ae118b64d29fb374040c76bf1157e1e8",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-gorgar": {
+      "fingerprint": "7d067f080dcb02013451417efc126f0eb22c323fcb7a1b4b4cbd5513cdfc1a64",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-got": {
+      "fingerprint": "776fc8c5332e117a748d2465d44005e45cb23ff9ad722d3c2064560d82307bdf",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-gotg": {
+      "fingerprint": "ae18b7518bdca693f9cd68222a92cae7e989bb99ceda38d91342258a30f2fe75",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-grandslam1972": {
+      "fingerprint": "a469da24d30382e9779ab5e9bae2eb623d3552d6290701dd004564d171bfea46",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-granny": {
+      "fingerprint": "5c82d19c830c49697415d651797dce08b1ccde93dedd55db9ec6eddd492d5a18",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-gunship": {
+      "fingerprint": "e9b0e2637a8ecab120ab1c5586215b8ac1c9ec004178d3deeb96feaa9af55d61",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-hardbody": {
+      "fingerprint": "b59142c9fbce87c2d21f539ef2fab844d5c60aae442d47ad166fbf9aedd50120",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-harleyd": {
+      "fingerprint": "e81f787710c6d3e17ae9aac3834d1c8bdb415d2fdd18a4ce1f3848af69d09eae",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-hauntedhouse": {
+      "fingerprint": "9f405af44a95965735a268741f747940a764a281ad011e11b1d94bdc0a93f2e5",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-heavymetalfantasy": {
+      "fingerprint": "d7f9c141091fd8dbc9f5973e214eec43aeaaefb549fdb45c80d488776670b61a",
+      "firstAvailableAt": "2026-09-10T20:13:26Z",
+      "firstAvailableRelease": "008",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-hellboy": {
+      "fingerprint": "39c7a7df5a96dcf824cb2d88c8216a701528b26beb1fd3703c04dfb2e46a0fce",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-hellraiser": {
+      "fingerprint": "6ee9daaf223e0558d9b1348a1305cd865561da84eebe8a2d39a7637bd24fe4ca",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-highspeed": {
+      "fingerprint": "6ebe68c26681c5620935831c9d18c80532c890a7271cba2906427338a3541569",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-hmm": {
+      "fingerprint": "df1fba15a342ab31e31d10fa6c4370432b421765b484db264d81ec4cd04db256",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-hollywoodheat": {
+      "fingerprint": "1d589c9cf7dfc88fb26de54fdfc48263d36b203aef91786fb6257fe8449003a5",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-hook": {
+      "fingerprint": "22246895c3b073d4f40a61d22977cdc71e715a7f9cff1c018115c12604bdde25",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-humptydumpty": {
+      "fingerprint": "cbeeac32eeca683a638350afd2c7feeda81a2c84a85019585651147f36b4cb63",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-icb": {
+      "fingerprint": "944c4ab9c600cb0ea21078d1fd5a99f156034612e14c33b5afe43995e4de9d03",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-id4": {
+      "fingerprint": "4381761c26281e90d9cbac2f0f84b76371afe9f5b458ef0c6d91f57a256fcc1b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-incrediblehulk": {
+      "fingerprint": "5183e9c6e88366fa45fc3eb20f9e8e2648c81992af286c348ba50ff8f954519c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-indianajonestpa": {
+      "fingerprint": "b4cdc6c8713bce1a1c29a439f618fd60541434c1fe703be4bc20829c13ffdb14",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-indylastmovie": {
+      "fingerprint": "d2d92c74360b61b02b3e5139c4549560bb26c381fffe988777354b48ec621c67",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-ironmaidenlotb": {
+      "fingerprint": "735eb48a69fa5bb2122eb0a8a6b0582ff6741d2bc75694a9d7ca3a366db0269d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-itpinballmadnesspup": {
+      "fingerprint": "e97abebd5b1d17a3524f6517f6084b19ece98da2f35e89ac7f3ffe7c1bd4f222",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jackbot": {
+      "fingerprint": "5069afe40c71aeaa41680bd2ba2d64fc3dd03e2ba3f8b7cb8d2f4924e9b5dbb6",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jacksopen": {
+      "fingerprint": "bad4c7b588561c2e828477b10650c06affea01d1291d5c5b12403631b044fee0",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jackstoopen": {
+      "fingerprint": "94ee2a30d6ae2c6309b318ae601268670eb32377c949eacfef6e35481ffb268f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jamesbond007": {
+      "fingerprint": "f96ffec354c99670de66fb1cc0d047064022823ebc15a12d36e213d6d783c729",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jaws50th": {
+      "fingerprint": "9c75b6657928be510d324834f9b17a62d2aff4003d6a200f8b661022fa8bc4d7",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-johnnymnemonic": {
+      "fingerprint": "95299b916fff582598c981bea6cda0686d7b41730303b9c57588a4393b2e0bdf",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-johnwick": {
+      "fingerprint": "7c89ef37cdeac033cd824d136be9b7720e6f55428d1d58dd9c68522759939861",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jpattackfrommars": {
+      "fingerprint": "ead2ad5ee4418c0329ff18959b3d7dca7410e8f7d95cda33cb4cf02ec7703340",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jpattackfrommarsle": {
+      "fingerprint": "15219909a6598f8765b56cfe49265a05bdcfd327fdeb7faa70d2b4b21583a15a",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jpavengersclassic": {
+      "fingerprint": "035964336e99086a9316e2fa574b306e5d694d9744f07d6a9b7f8740fa7aca5d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jpfridaythe13th": {
+      "fingerprint": "5e338c8393e4fffbe5d8e3def2114057029a3fda2d9376bddafaf907b818b9d1",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jplordoftherings": {
+      "fingerprint": "465d8d85f9f37b3869016160f7b9524cbab769ca469efadd94875cb3b9b86d64",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jpseawitch": {
+      "fingerprint": "415ca04aaf407340edd22e6aba21192c7a91351c6a2679dd05f5b8a0a66a49f0",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jpslimer": {
+      "fingerprint": "3e7f652ec4f403aeae508ca82486a7d5c068d422fef66e864a990b7002dce9c6",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jpsnascar": {
+      "fingerprint": "0ce6861663f2d7b9e500cbcee06db64844b4b82f03ad4a1a2d36e9d8fb22af9a",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jpt2": {
+      "fingerprint": "c65ab1582c1123b907671d48d55e14d57202472a2850b4783f42702ea3b96790",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jptaf": {
+      "fingerprint": "cdee7131ba9ce87b8d34e244a53c40ed13d2f52a5fe0d4a02f7c5019562f04f9",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-judgedredd": {
+      "fingerprint": "a3d48e6f0efbca05eb6b6dc1c6f8615c2b3171e99726f69cb020897fa2adf181",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-junglelord": {
+      "fingerprint": "26f04190b5c2e937408a02c193c73ebdc1716cb7ec985b1ad2540a9c80229177",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jurassicpark": {
+      "fingerprint": "9a9b61f2bbf93e2c4a0912d2fa6aaa1fa7e3694fd1e6694c0aab6526098ab7e2",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-jurassicparkle": {
+      "fingerprint": "8f4f8fd9aa44461f1e546d87c1c63d8da3f7cbbcdde1082b14fe591370bd5bc5",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-killershof": {
+      "fingerprint": "dddb1104c4865726665af3a98fef7f0654f6add6558a159aa0c35e1b93b8052f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-kingkong": {
+      "fingerprint": "714cb4f65f382294997f91a0bf30b810edf07dee45564356d071ad344de16e9c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-kissbally": {
+      "fingerprint": "8d58e9531dfb80ade6d75e6ed919f70b3a8fdccca8a98ee59d5a206e27bf5806",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-knightrider": {
+      "fingerprint": "6f65285a24d76375acd1f8e4479a6bd51077b5d2e762d7cc32af2136b1b27635",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-koth": {
+      "fingerprint": "de0a3593c1402c49de3c6dda8e6feab76763a0eb42547918ccf7078a92e9bdfd",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-lastactionhero": {
+      "fingerprint": "b7dc9cb8dc9355ed8471cbf6fc16b085af3baca344092abba33a0d1aa5f33170",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-lethalweapon3": {
+      "fingerprint": "68b11bd4b9d8491227a30d9e4049b88173c19fa406a7915e832317bcd90c8936",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-lordoftheringsvalinor": {
+      "fingerprint": "9d9fad8d09f3dfcadc410014d1b8a60e23eb545bfb0cd340a62e868d10691c72",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-lostinspace": {
+      "fingerprint": "ac7afe52862cbc3c7aa15d558be7f31b14adbf7543104f8ce66975c72e9861f5",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-lostinspacecomic": {
+      "fingerprint": "16d53468b652e172c840d5e0392be9ddc4f63984c4299efd1a52cf035f4a97f6",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-machtwo": {
+      "fingerprint": "436dd012590fb50454a2155f154eeddecde785d9d38f071fc7b697cc9adf789d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-madmax": {
+      "fingerprint": "1689536b3ebb72484f802b22021df0d658bfc21977092953c338a4a26fb8bd72",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-maryshelleyfrank": {
+      "fingerprint": "45852db045f4153bca3e117f0dd834952b957bce7cb65c800f7d6f9d1e255f3f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-matahari": {
+      "fingerprint": "f99088391da95fb9f345e6fef2c16662e73631969af586b755ec7d02412b7b75",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-maverick": {
+      "fingerprint": "dc79b88ecf7a0879d50ccdeac0fc57060a2cf3c5c510d6c03403c84cf006c529",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-medusa": {
+      "fingerprint": "293010bee2939dfd5430a3417d694feca4d779cf4370806bb306913acaff581f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-megadeth": {
+      "fingerprint": "0123d57c122dce87f595a7ffd36f1a846d383f8c046643971e82f87b6e04ab86",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-metallicapremium": {
+      "fingerprint": "923a5ffb15f29509c57e8f698b98f327b7cd84f923828f33df98bbc8d90b11aa",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-meteort": {
+      "fingerprint": "5343ef2b8728e07a1220aed3ba3ec1f6c8ea814e7adb8d435243ab0f75001402",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-missionimp": {
+      "fingerprint": "fdff3e93e8e1aad6ee5bb8fcb683252b569fbc65f37c2716935fb846d76f683e",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-mm": {
+      "fingerprint": "c4b806c463d42fbe5abf22949dfdf08672bf37086c0db914acfe8f8fc60fa955",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-monsterbashreskin": {
+      "fingerprint": "359dcfa1c80e5866c788a228c816026c59b0f6fee8b9b40987155aeedf4fa730",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-mousin": {
+      "fingerprint": "848681d73c5be322773d8903cce388529aa7f6524f20c549bfbeef8bc33dae2c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-munsters": {
+      "fingerprint": "ce3f138a26e5c4c7fefe457d059fc0ef97671373a256d196ecec5e1f6078206d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-nags": {
+      "fingerprint": "f3d13a3c77d99c0847a67567ab3ac0feaeb8f1e3dd972d2decba1b0d222a981f",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-nascar": {
+      "fingerprint": "aa6c8d81fd46c51571b7ca38a7f72c8140254b8049af7a0f6d7a4f074070a810",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-nba": {
+      "fingerprint": "fa0a07c77050c894e6aefb6ff1a5266b35a8e20700d7b913c547341a2194aa0d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-nbafastbreak": {
+      "fingerprint": "e0f1fd942538cf6a6864214ade1df64291d566262d64ca97ad4dcdbaff198c88",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-nofear": {
+      "fingerprint": "7155738dc1c5886526fe056c8af6daf0c52aa32642f3514fa706f5312b9c2ca7",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-ogaucho": {
+      "fingerprint": "f4e7f1675670d8245295ea755e0e0df69b7f029b6acbd8ef7e42e02f30db4c2e",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-partymonsters": {
+      "fingerprint": "596e71b8170e3e4d29603bb1354fe6f68f7ed069bf350a76faf9c2d649ca66d7",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-pennantfever": {
+      "fingerprint": "b91359c9fed1eda7572cba53b1bcfffdcc243b4ec76ccd2a5debb34b3d2b6446",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-pharoahdr": {
+      "fingerprint": "fa92c5c43adbc98ee6c13a62946330676c0cf6153d4f8de7a0969e9a363fd113",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-pinbot": {
+      "fingerprint": "295029bdeca88f1f2ac59b276587fcf1351b51bb4fcead2372af1965a5861c85",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-pinkfloyd": {
+      "fingerprint": "e08602edd25eb318e91f5ffdfb21c0f016a85ddb72a28f9376e0aac5a6b4eb39",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-pistolpoker": {
+      "fingerprint": "cd55a5c22e51f7833211114dcef513dfa302f1aae1d0a314ea4714b1f3c49575",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-playboy1978": {
+      "fingerprint": "72c625c28e2a82fec062f1ee84e1b727c9072fee0f139ed6ad387b30f2d5bb35",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-playboy1978de": {
+      "fingerprint": "3910884e026ee8b96ef66a3fa5c9c3d8ab585cb925c497875a938dae9282fc90",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-playboy1978denude": {
+      "fingerprint": "08ff3984ecd66d8751b3385dfd9b9d02d514b3febfdaac7f23959e772bf0fa49",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-playboy2002": {
+      "fingerprint": "78072ac0f7f9fd1a877dd2c40c04ae091387bd6282d06a9036bba661dcd6150d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-playboy35": {
+      "fingerprint": "d0e85939142cefd0e5f65daf76e55e9a72772b5000a4ad76a7f50c622c70eb6b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-playboy35m": {
+      "fingerprint": "f4e27e4088c133385e2011de2d9906d1852fa37354ad865c104e030fdd4e19d5",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-policeforce": {
+      "fingerprint": "ec7ad83ee35e2950383cf06d31e839d4b1f269d8cb4b11e142930dbd559df611",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-poolsharks": {
+      "fingerprint": "b9c283106dcb8e290a725a0b7ae2938df6c77e68e30d8694912986eb5afa10cb",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-potc": {
+      "fingerprint": "2e759dcb9fa99d22e0e5c483e1a4e499fed9b331d84463280825df750615b74b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-powerrangers": {
+      "fingerprint": "fff5f8974b75c540be38ffff071aeb6b2d5efc22a0a7c471850130b3c9ed71a0",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-primus": {
+      "fingerprint": "69fd85848e8af96d588df6d2b206ce212b53a578c4605fbba66b1649d813a863",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-punchout": {
+      "fingerprint": "9bc73f73735f85caaf67a10246598a730149eb4c128a4e6bd4190d63f612f518",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-quicksilver": {
+      "fingerprint": "be8141e526ed0e4422da9b74b059dc4aef4c3c05c3d6126466bf0d1c5cc1277e",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-r911": {
+      "fingerprint": "861edfa3967f3599459e80124a44edf40606bc1054a0ca28e3d7647313886946",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-ratfink": {
+      "fingerprint": "238d67e549da864fa442b5439497047047267a5b7d54e52bbdc1856af5e1c2fa",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-rctycn": {
+      "fingerprint": "9e333fd8c8f7384d5ef390002b3790d3c787bf241239e30298072592864ff6b5",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-ripleys": {
+      "fingerprint": "b4b5742f2c2053c9a6f020e9bade450a4463317cdb8c5fd15a891cc44c004916",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-roadrunner": {
+      "fingerprint": "badff7cafaca38afff73243e25db76621e11f28188aaa9b8fad80bb711c5783b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-rollergames": {
+      "fingerprint": "71506205d1d2b097d2e9c369dbb0f5eea55313ced00796419baa9ca9ea6e1296",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-royalrumble": {
+      "fingerprint": "2d06ac28d4aafc80be1a763faf242b06242c052caaf7535831f34349ec65b552",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-scaredstiff": {
+      "fingerprint": "d3ab59285218f5776aa0c631bebfe7dc1dd4b32d9ec37ca10f2bc1638c4aea70",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-seawitch": {
+      "fingerprint": "0ec68e0b8a9da7d7372092671139c0e2ed5ca5e8929ff01e746143364bc8b594",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-secretservice": {
+      "fingerprint": "5d94ec8a25bb3d63246866f3fe295d46b418ed1fe9c13ba8be7212c44e9ba101",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-sexygirlnude": {
+      "fingerprint": "7508035cb15d92ed983c1edc55d5bdd5e3540e9176bef33e4246b6c01ddd5324",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-sfii": {
+      "fingerprint": "38eaf01a01ea3ac37842b75d379e10b210df1131fa56b9ca750b9a12cec916d6",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-shark": {
+      "fingerprint": "a06785602ad7aecc5913d78a016a2a64d8dc211de489289d9726e68c67cd71aa",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-sharkeys": {
+      "fingerprint": "33066a0b7d99b3adb7d17b68144148f26376620718a7a7e411b2465a1edbdb2b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-simpsonspprty": {
+      "fingerprint": "dc9847a75440d4c6cf91de5845003d21f709476702a3b94753e8098646e7db2e",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-skyscraper": {
+      "fingerprint": "a922c8e365477db79b1a2342771b72301905f79973527dde2b393e1fa8422fa7",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-smbmushroom": {
+      "fingerprint": "1107f8bdd78800c9954745757db70695497ee497040e980dca30a70366dd668b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-sopranos": {
+      "fingerprint": "e30d5fa27f0ea4aa63344d2de95587c44c60180f72ef112a925c40faeffbca2d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-southpark": {
+      "fingerprint": "0ddf7919e5ff18731dab4d6609b8d363a3efda591c45defe1dec6ae7d9647cb9",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-spacecadetge": {
+      "fingerprint": "9f6225f14a635096a74dbcda0cbca4efb7e759001777a138a8fb94f13cfdbb3b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-spaceinvaders": {
+      "fingerprint": "c8f6a0404d9cab702afabf7922439d7f8a14c544a4b39bd54d319b1c0c2b56ce",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-spacejam": {
+      "fingerprint": "66c6d5475693931fbb1de406703f559095d2b1f93db11a8828fc01222fd85cfc",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-spidermanve": {
+      "fingerprint": "4ba4a88d0bd54c8912db80c8f5b3addf3427501165f0ec6132c3421eee61d9f7",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-starship": {
+      "fingerprint": "2b7e7541c707d0d296276819385f3ab374e675b6b7aa70c54b4c19245cae99b3",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-starshipvpw": {
+      "fingerprint": "8eef7440ecc7ed8c58ce64957b06ec5b9f735013e7255cffcd91d89fff9f2b83",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-startrek25th": {
+      "fingerprint": "3f76b6ea27f5683b789263003ef51c77901ff2668f46e0e1760ccf2027fd850c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-startrekle": {
+      "fingerprint": "efc786abee2d4edc64fbbe2b21284571229bd30990b9d87db212f884134c7b41",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-startrekmu": {
+      "fingerprint": "db2bc0267a01133189301bdf33b37a153b60a3747b42b780e8169dd7f59572e8",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-startrektng": {
+      "fingerprint": "648528b8bfcc9777adb924a01a750b8252c6ee84e2b5fdc5c5a65876ce1951ec",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-starwars": {
+      "fingerprint": "20317912669715f45c47324f82b4afbb50e1887983fd7ec9aa2ff2921d25e749",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-starwarsburger": {
+      "fingerprint": "d033435acca5c2c74d2dfd3d46f676b1529773b414cdfa2546093fc949637b1c",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-starwarstrilogy": {
+      "fingerprint": "18926744a84c013be71b714801b251533191947a4681abc9d0164fe0aaa8c508",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-superman": {
+      "fingerprint": "b2ee2a2fcf07c97df8524914d0b3c55cc9bff3c2e9d614a0d6510854cc0208bb",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-supermario": {
+      "fingerprint": "85ca8026f5360043252be74df3df65717fa64ff4fd96eea5b9b48167a77ff37e",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-surfnsafari": {
+      "fingerprint": "a034cda618551ca09f439af302836cf345689957f5e0b87eb0852e52e0deded3",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-swbadbatch": {
+      "fingerprint": "7b3b6468c87dce919524fb34aec7d3ba959be0fd3f507d00f6e8ce9870b908a1",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-t2": {
+      "fingerprint": "077d9a597314cf1d2579e40d9f44fb32418922ccb1fffa585594ccc62af22233",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-taf": {
+      "fingerprint": "97d2c8c412f8a4becd954f945e45842b5c393159dc4936503c6132bd23e89993",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-taxi": {
+      "fingerprint": "f6ed34f407fb37e6a42290596aa545aeab3117b8ca03fa651ff0026d1f8187bb",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-teedoff": {
+      "fingerprint": "205eafec58d05f29cfe29d3e2037f308605e1be8e326cb51818d82f353f3a2d1",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-tftc": {
+      "fingerprint": "81a0f6a2709ad0013b3d62fd346bb4828529577b17c134cbcf4facb23a3c394b",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-thelostworld": {
+      "fingerprint": "1134918b38c9ae57cb2545bc7c973682569bc8fc33e2a38d11de080916be4414",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-thelostworldjp": {
+      "fingerprint": "749fa169461b7ceaff6681f9859060f28ea68243bb9130fc65e9059bd88d5b55",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-theshadow": {
+      "fingerprint": "153be1fb0dfbbfcdfa1b9d5fd6a343cd8b3a49f4055015779b5eae2ce70b305e",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-theshining": {
+      "fingerprint": "0e6af046d47de47787b1cd757fa1317920bc2066d108bc5839274401d3c1db2e",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-timemachine": {
+      "fingerprint": "6c56efa9242c44fa856315544ef73de420c8b8483e2db76d6751bceba45fbefa",
+      "firstAvailableAt": "2026-09-10T18:10:02Z",
+      "firstAvailableRelease": "006",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-tna": {
+      "fingerprint": "a6f524a13b2d978e5a1be8fc8fef6d298fd47e7168affe924b2ba0e729f71cc8",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-tnes": {
+      "fingerprint": "ffb9f58c6b62bf08aa4f4e3b65492f8fd660e250e110a106e801742700033507",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-tommy": {
+      "fingerprint": "578846ca6750ee0e9c91ea53611324d707e0706af4052739fad7d094f09a9c46",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-torpedoalley": {
+      "fingerprint": "205707b85412b6f721b9c35b85b35786e48f6de8da1326e68f80e97a72d47f70",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-totan": {
+      "fingerprint": "492e8de87874c81f0e6ec631f0f783e6dbd5e9cfea4c20b92d0f25c86b88efe7",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-trailerparkboys": {
+      "fingerprint": "9a60d4b21214829e61515c4c1e901eca08b6d4e46c7b31ca7888b616412b8a87",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-transformersmod": {
+      "fingerprint": "d6aab12db9131a5ad6d51a5e332c2ea6416366a2d50f7fa1b03cc0dc60b7e600",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-trident": {
+      "fingerprint": "0ecfdb3afd068f0bdb771ff7d7a6d1e75424f377664d5b623949392e1f507e42",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-tronlegacy": {
+      "fingerprint": "74b0f7a961dc0910a5ffd7b549d409880b559d8a2afb1ed64daaee528717bae1",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-twdle": {
+      "fingerprint": "707621937ba5d415adfd2797197ecbd5f3248bac0755760567c906db773ae0a7",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-twister": {
+      "fingerprint": "d511ea8526bd19a944dfc97a4474f0594f0c537db15616c03345b66f75b21fda",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-tz": {
+      "fingerprint": "cdff5145e99c080d251f8d4b3314a9684e0e7e79fb81f129176edb283519f147",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-tzbw": {
+      "fingerprint": "972178724d6945ae0daadf7eacd7edcf82a99c30feed06370a8117427d8c7dee",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-underwater": {
+      "fingerprint": "35b0bf592b66abcf38a3a0a4427ea43d49f018428850a9a7f7c22b5dc54301a9",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-victory": {
+      "fingerprint": "8649812977eb48509aef881a45d8c37db33739fa152a13482da5932ca66e8775",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-vipernight": {
+      "fingerprint": "da8d48ee0c5ca5608c0c5aa0b637a05d6fcdd81b14a443c1ff41a9a869ffa57a",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-volkan": {
+      "fingerprint": "bb2da24e208f16e9e819443ab31f4de3f6dc98174fd382cefc99480f9ecf7354",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-vortex": {
+      "fingerprint": "b7dffc914483bbd2a73a6f0d961936889ba0123ad8a058e50bb4750a7417fe43",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-walkure": {
+      "fingerprint": "0e9ff8de57c15d185493ec4bcee2e20ba2326a738adb9cc3822d5465756e7e75",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-walkyria": {
+      "fingerprint": "c0b18eff72dffad37d7fbe621f614381d7b137c16e8f08b1e435e75b01060b7a",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-whoanellie": {
+      "fingerprint": "7654484340af2d2288fbd792b13cddd204d615acda61f923fab525d4967922a3",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-whodunnit": {
+      "fingerprint": "50435873baaa7c945e6e4ef2fb84b36c6bf52e17f74695b2b4e64ff08d76c272",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-willow": {
+      "fingerprint": "fd20be37cdd8f02af476623bf2c60eb9505f2b04e972de5c48b2fcc46aa4ac62",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-wipeout": {
+      "fingerprint": "f4188234d25dfdb0d1a16375ff7077925b40f1031a76b4106ba56ac749520e5a",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-worldcupsoccer": {
+      "fingerprint": "9a83027aef8ae8421da0b91e193eb8a7894009c876966a288424bf4f3e71b496",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-wrath": {
+      "fingerprint": "f7ffa2a8a1a39a694efd4cb9d17c8358921b6823949234d85cef76d0fce862d0",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-wutheringwaves": {
+      "fingerprint": "cc52443e8eb8a7bbbf24424d7731629114f0a04f0f23de6343e2a292d17d5e17",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-wwind": {
+      "fingerprint": "7b2b41381a582d000a4a892f18895a415f6e74b3c22fa01b430efbc340c23815",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-xfiles": {
+      "fingerprint": "4a6ae2d5e1ad5cc4b8dedbea760402013d84432e207a9baecb7596d58b0053d6",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-xfileshanibal": {
+      "fingerprint": "4abcea2f0a6b03a4d823af90556f2aafc7b38bebbb9261182779439555e478ce",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-xmen": {
+      "fingerprint": "d2ee7db49ac7367ec4700c98117bf5c98ec39e9c0fc30bfecebf6276a6502cf4",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-youngfrankenstein": {
+      "fingerprint": "5320b387b9e83cde43f30c9e3bd5e5a405b63349b52e174b184fc5eef5e4e3fc",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-zelda": {
+      "fingerprint": "7e0090c87f09d4f5f30d13df6527d47a6946a36224fe3c2c698ad5c67003ebbb",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    },
+    "vpx-zissou": {
+      "fingerprint": "80f7934934e05ba91be4244f79b503a22544a3c9bdf5bafbccd5d6485491195d",
+      "firstAvailableAt": "2026-09-09T23:19:11Z",
+      "firstAvailableRelease": "001",
+      "updatedAt": "2026-09-10T20:13:26Z",
+      "updatedRelease": "008"
+    }
+  }
+}

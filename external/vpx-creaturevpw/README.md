@@ -1,4 +1,4 @@
-# Creature From the Black Lagoon (Bally 1992) Vpin Workshop Edition (Bally 1992)
+# Creature From the Black Lagoon, Vpin Workshop Edition (Bally 1992)
 
 ![Table Preview](../../images/4MKFjZuJ_P-preview.webp)
 
@@ -8,7 +8,7 @@
 
 | Backglass | DMD | ROM Required | Has Puppack | FPS |
 |-----------|-----|-----|-----|-----|
-| ❌ | ✅ | ✅ | ❌ | 57 |
+| ✅ | ✅ | ✅ | ❌ | 57 |
 
 <br>
 
@@ -32,7 +32,7 @@ This table is available through the Table Manager Wizard, which makes installati
 1.  Open the **Table Manager**
 2.  Click the **Add Table** button
 3.  Select the **Wizard** tab
-4.  Find and select this table from the dropdown menu: **`Creature From the Black Lagoon (Bally 1992) Vpin Workshop Edition (Bally 1992)`**
+4.  Find and select this table from the dropdown menu: **`Creature From the Black Lagoon, Vpin Workshop Edition (Bally 1992)`**
 5.  Follow the on-screen instructions to download and upload the required files
 6. *"'Move your car!'"*
 

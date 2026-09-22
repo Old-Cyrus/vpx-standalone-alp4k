@@ -1,0 +1,14 @@
+---
+fps: 60
+mainNotes: "Download Dragon's Lair_LTek_mod_1.1.3_PuP-Pack.zip"
+pupArchiveFormat: "zip"
+pupArchiveRoot: "dragonlair"
+pupBundled: true
+pupChecksum: "3BFE601A37E1D804C96EFC8925ECF2B0"
+pupNotes: "Bundled with table"
+pupVersion: "1.1.3"
+tableVPSId: "IS9JONzlC9"
+testers:
+  - "Curt"
+vpxChecksum: "03E781C816894FD033E949A11464554F"
+vpxVPSId: "mU_KvAiDAO"

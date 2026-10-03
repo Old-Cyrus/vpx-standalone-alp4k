@@ -1,0 +1,18 @@
+---
+fps: 60
+mainNotes: "'This match will get red hot!'"
+pupArchiveFormat: "zip"
+pupArchiveRoot: "cuphead"
+pupBundled: true
+pupChecksum: "38FDE57906676EA234C008AF4436F6B8"
+pupNotes: "cuphead-pup.zip bundled with vpx"
+pupRequired: true
+pupVersion: "1.2"
+tableNameOverride: "Cuphead Pro (Perdition Edition), PuP-Pack"
+tableNotes: "Download Version 1.2"
+tableVPSId: "Ig2Y1F9u"
+testers:
+  - "Bla1ze"
+  - "Curt"
+vpxChecksum: "213F6E942642D26A17FCD8B6A24C2829"
+vpxVPSId: "vKDukaWtBU"

@@ -4,8 +4,9 @@ mainNotes: "'This match will get red hot!'"
 pupArchiveFormat: "zip"
 pupArchiveRoot: "cuphead"
 pupBundled: true
-pupChecksum: "38FDE57906676EA234C008AF4436F6B8"
-pupNotes: "cuphead-pup.zip bundled with vpx"
+pupChecksum: "78D1E37BDAAEE4B49753A22B01C61A15"
+pupFileUrl: "https://vpuniverse.com/files/file/15901-cuphead-pro-pup-perdition-edition-d-goblett-co-2020/"
+pupNotes: "You will need to unzip the main archive, and point the Wizard to cuphead-pup.zip for the PupPack"
 pupRequired: true
 pupVersion: "1.2"
 tableNameOverride: "Cuphead Pro (Perdition Edition), PuP-Pack"

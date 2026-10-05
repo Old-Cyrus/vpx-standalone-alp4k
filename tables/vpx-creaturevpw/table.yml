@@ -1,12 +1,11 @@
 ---
-backglassChecksum: "E6867A078132A7EEDC38ED9C1144D428"
-backglassNotes: "Use HauntFreaks V 4.0"
-backglassVPSId: "-62c-nUf5t"
-enabled: false
+backglassChecksum: "DB39F8B4A1B4AB0002D05F65F857BE69"
+backglassNotes: "Endeemiller 3-D"
+backglassVPSId: "rD9Kfgrluq"
 fps: 57
 romChecksum: "E1F87E7C99A9889E063049832601B733"
 romVPSId: "d4nESeqt"
-tableNameOverride: "Creature From the Black Lagoon (Bally 1992) Vpin Workshop Edition"
+tableNameOverride: "Creature From the Black Lagoon, Vpin Workshop Edition"
 tableVPSId: "OiRcNWYu"
 tagline: "'Move your car!'"
 testers:

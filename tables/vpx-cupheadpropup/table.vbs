@@ -71,7 +71,7 @@ MusicVolume = 1
 
 '* Set to 1 For Free Play or 0 For Coin PlayChime
 Dim FreePlay
-FreePlay = 0
+FreePlay = 1
 
 '* Set to 1 For Double Bonus on last ball 0
 Dim LastBallDoubleBonus
